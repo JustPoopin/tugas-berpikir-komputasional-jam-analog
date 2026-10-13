@@ -1,0 +1,1 @@
+install dulu library pygame
